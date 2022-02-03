@@ -1,2 +1,2 @@
-# Personal-Portfolio-freeCodeCamp-
+# Personal-Portfolio
 FreeCodeCamp
